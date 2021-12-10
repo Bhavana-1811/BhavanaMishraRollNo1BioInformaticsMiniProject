@@ -1,0 +1,3 @@
+Motif GAATC Matched at position:522,527
+Motif AATCC Matched at position:972,977
+Motif AATCC Matched at position:972,977
